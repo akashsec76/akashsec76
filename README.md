@@ -40,7 +40,7 @@ I practice only on legal platforms such as:
 
 ---
 
-> **"There is no tomorrow."**
+> "**Every Expert Was Once a Beginner."**
 
 <!--
 **akashsec76/akashsec76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
