@@ -1,4 +1,46 @@
-## Hi there 👋
+# Hi, I'm Akash 👋
+
+## 🛡️ About Me
+
+- 🎓 Student
+- 🐧 Learning Linux
+- 💻 Learning Git & GitHub
+- 🔐 Learning Ethical Hacking (Legal Labs Only)
+- 🚀 Building My Cybersecurity Portfolio
+
+---
+
+## 📚 Currently Learning
+
+- Linux Basics
+- Git & GitHub
+- Networking Fundamentals
+- TryHackMe
+- Web Security
+
+---
+
+## 🎯 My Goals
+
+- Build a Strong GitHub Portfolio
+- Complete Free Cybersecurity Certifications
+- Improve Practical Skills
+- Become a Skilled Ethical Hacker
+
+---
+
+## ⚖️ Practice Policy
+
+I practice only on legal platforms such as:
+- TryHackMe
+- PortSwigger Web Security Academy
+- DVWA
+- OWASP Juice Shop
+- Metasploitable
+
+---
+
+> **"There is no tomorrow."**
 
 <!--
 **akashsec76/akashsec76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
